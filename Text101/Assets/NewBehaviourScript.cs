@@ -5,7 +5,7 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		print ("noper");
+		print ("nopers");
 	}
 	
 	// Update is called once per frame
