@@ -11,12 +11,6 @@ public class TextController : MonoBehaviour {
 	void Start () {
 		myState = States.start;
 	}
-
-	//bb "He convulses angrily as you 
-	//cc "You die."
-	//B "
-	//C ""
-
 	// Update is called once per frame
 	void Update () {
 		if (myState == States.start) {
